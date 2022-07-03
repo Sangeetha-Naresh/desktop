@@ -1,0 +1,46 @@
+12. What concepts are covered in classes from C145 to C192 ?
+Concepts of AR and VR inclusive of HTML, CSS, Javascript, A-frame and AR.js are
+covered in these classes
+
+13. What concepts are covered in classes from C193 to C232 ?
+Concepts of Computer networking including mobile app development, python, open
+source networking, GUI libraries, react.js, firebase and google cloud are covered in
+these classes.
+
+14. What concepts are covered in classes from C233 to C250 ?
+Concepts of IOT and its applications inclusive of python, node, microcontroller units,
+arduino, servers and sensors are covered in these classes.
+
+15. What concepts are covered in classes from C251 to C270 ?
+Concepts of Autonomous robots including arduino sensor, actuators and bluetooth are
+covered in these classes.
+
+16. What concepts are covered in classes from C271 to C300 ?
+Concepts involved in Self Driving Cars along with Image processing and PID are
+covered in these classes.
+
+17. Are the classes based on arduino, autonomous robots and self driving cars covered on
+actual hardware?
+No, they will be covered using computer simulators.
+
+18. Where can I learn more about Arduino ?
+You can refer this link to learn more about arduino and arduino circuits:
+https://www.arduino.cc/en/guide/introduction
+
+
+19. What is A-frame ?
+You can refer to basic programming in A-frame on this link: https://aframe.io/
+
+
+20. What is PID ?
+A large number of controllers exist to move a robot/vehicle. They are more or less
+complex depending on the problem that we want to solve.The simplest of all is called
+Proportional Integral Derivative or PID. To learn more you can refer this link:
+https://towardsdatascience.com/the-final-step-control-783467095138
+
+21. What is the difference between react.js and react native ?
+React is a framework for building applications using JavaScript. React Native is an entire
+platform allowing you to build native, cross-platform mobile apps, and React.js is a
+JavaScript library you use for constructing a high performing UI layer. To learn more refer
+this link:
+https://www.cognitiveclouds.com/insights/what-is-th

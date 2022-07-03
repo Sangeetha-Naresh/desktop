@@ -1,0 +1,25 @@
+Which problem statement do you want to solve around the communication as a broader theme? (Max 150 words)
+Your answer - We want to create a Chatbot for Students. This Chatbot is going to be like a friend for all the students who are shy and hesitate in the class to ask any question to the teacher. As sometimes students feel bored reading the whole class summary PDF, with this chatbot they can ask for any specific syntax or logic behind the code. This particular Chatbot is going to be targeted towards the students and the issues they are facing outside the class.
+The problem statement that we want to solve around communication is by creating a chatbot for students. At present the WhitehatJr’s student dashboard  is such that they are unable to clear doubts outside class hours. This doubt clearance chatbot is also going to be like a friend even to those students who are shy and hesitant to ask questions to the teacher during class. Since teachers are not available 24/7 to clear students' doubts and also sometimes the students feel it's time consuming to read the entire class summary PDF, this chatbot will be one of the biggest assets any student can have on his/her dashboard and which will be available with just a click away!
+How will your app solve the problem?/ Blueprint of your app towards resolution for the problem statement (Max 150 words)
+Your answer -
+The chatbot will be able to handle queries regarding respective class lessons of v2 and v3  versions applicable to professional curriculum only. The student has to just access the chatbot on their dashboard and type in their query and the chatbot will respond accordingly
+For example:
+If any student is facing issues in revising the concepts or he forgot the previous class concepts then to revise them or to revise the specific concept this particular chatbot is going to help.
+ If the student is facing Issues in handling any platform like code.org,visual studio code , github etc. then this chatbot is going to help them by giving proper guidance on how to handle the platform.
+ Also this chatbot will help with handling the whitahtjr platform. 
+If students want ideas for their own project then this chatbot is going to give some ideas.
+What features are you planning to have in your app? (Max 150 words)
+Your answer - 
+This chatbot will have 3 features:
+Handle queries: It will be able to handle queries from  V2 and V3 versions , the chatbot will ask in which current version the student is and in that specific Version , the student can ask questions regarding his any particular class by entering the respective class number.
+Suggest Ideas: It will be able to suggest ideas on deciding  game design techniques ,If students want any ideas for their own game design while creating their own game.
+Guidance: It will be able to guide the student with a step by step precise procedure, If a student is facing issues for uploading files on Github / for sharing projects etc .
+ 
+ 
+ 
+Which technology/language/platform will you be using to create an app? (Max 150 words)
+Your answer-
+ We are Planning to use Dialogflow which already present the curriculum of WhitehatJR
+ 
+
